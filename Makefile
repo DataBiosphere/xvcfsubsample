@@ -1,5 +1,5 @@
 test: lint cromwell.jar
-	java -jar cromwell.jar run vcf_subsample.wdl --inputs test.json
+	tests/test_xvcfsubsample.sh
 
 lint: womtool.jar
 	java -jar womtool.jar validate vcf_subsample.wdl
