@@ -1,4 +1,5 @@
 {
-  "xVCFMergeWorkflow.xVCFMerge.input_file": "gs://fc-9169fcd1-92ce-4d60-9d2d-d19fd326ff10/my.vcf.gz",
-  "xVCFMergeWorkflow.xVCFMerge.output_file": "subsampled.vcf.gz"
+  "xVCFSubsampleWorkflow.xVCFSubsample.input_file": "gs://fc-9169fcd1-92ce-4d60-9d2d-d19fd326ff10/my.vcf.gz",
+  "xVCFSubsampleWorkflow.xVCFSubsample.output_file": "subsampled.vcf.gz",
+  "xVCFSubsampleWorkflow.xVCFSubsample.samples": "a,b,c,d"
 }
