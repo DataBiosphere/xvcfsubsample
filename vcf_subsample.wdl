@@ -7,7 +7,7 @@ task xVCFSubsample {
 	String output_file
 	String samples
 	runtime {
-	    docker: "xbrianh/xsamtools:v0.4.1"
+	    docker: "xbrianh/xsamtools:v0.5.2"
 		memory: "64G"
 		cpu: "8"
 	}
