@@ -1,0 +1,26 @@
+{
+  "workspace": "terra-notebook-utils-tests",
+  "billing_project": "firecloud-cgl",
+  "input_files": "drs://dg.4503/f4db0058-c0d7-46db-b5e8-15c81d71f5ef",
+  "output_file": "gs://fc-9169fcd1-92ce-4d60-9d2d-d19fd326ff10/test_subsample_vcfs/out.vcf.gz",
+  "samples": [
+    "NA21103", 
+    "NA21104", 
+    "NA21105", 
+    "NA21106", 
+    "NA21107", 
+    "NA21108", 
+    "NA21109", 
+    "NA21110", 
+    "NA21111", 
+    "NA21112", 
+    "NA21113", 
+    "NA21114", 
+    "NA21115", 
+    "NA21116", 
+    "NA21117", 
+    "NA21118", 
+    "NA21119", 
+    "NA21120"
+  ]
+}
