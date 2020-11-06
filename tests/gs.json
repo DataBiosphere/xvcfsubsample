@@ -3,6 +3,8 @@
   "billing_project": "firecloud-cgl",
   "input_file": "gs://fc-9169fcd1-92ce-4d60-9d2d-d19fd326ff10/test_subsample_vcfs/multisample.vcf.gz",
   "output_file": "gs://fc-9169fcd1-92ce-4d60-9d2d-d19fd326ff10/test_subsample_vcfs/out.vcf.gz",
+  "cpu": 2,
+  "memory": 2,
   "samples": [
     "HG00097",
     "HG00099",
