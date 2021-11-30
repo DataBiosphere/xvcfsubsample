@@ -1,9 +1,9 @@
 {
-  "workspace": "terra-notebook-utils-tests",
-  "billing_project": "firecloud-cgl",
-  "input_files": "drs://dg.4503/f4db0058-c0d7-46db-b5e8-15c81d71f5ef",
-  "output_file": "gs://fc-9169fcd1-92ce-4d60-9d2d-d19fd326ff10/test_subsample_vcfs/out.vcf.gz",
-  "samples": [
+  "xVCFSubsampleWorkflow.workspace": "terra-notebook-utils-tests",
+  "xVCFSubsampleWorkflow.billing_project": "firecloud-cgl",
+  "xVCFSubsampleWorkflow.input_files": "drs://dg.4503/f4db0058-c0d7-46db-b5e8-15c81d71f5ef",
+  "xVCFSubsampleWorkflow.output_file": "gs://fc-9169fcd1-92ce-4d60-9d2d-d19fd326ff10/test_subsample_vcfs/out.vcf.gz",
+  "xVCFSubsampleWorkflow.samples": [
     "NA21103", 
     "NA21104", 
     "NA21105", 
